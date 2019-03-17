@@ -5,6 +5,7 @@
 <b><a href="https://github.com/shah314/matrix-factorization/raw/master/matrix-factorization-recommender-systems.pdf">Introduction to Matrix Factorization for Recommender Systems (PDF)</a></b>
 <br>
 (This tutorial was part of my course notes for a matrix analysis course at JHU)
+<br>
 <h2>References</h2>
 
 [1] Koren, Yehuda, Robert Bell, and Chris Volinsky. "Matrix factorization techniques for recommender systems." Computer8 (2009): 30-37.
