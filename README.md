@@ -2,7 +2,7 @@
 <h2>Abstract</h2>
 <i>Recommender systems aim to personalize the experience of user by suggesting items to the user based on the preferences of a user. The preferences are learned from the user’s interaction history or through explicit ratings that the user has given to the items. The system could be part of a retail website, an online bookstore, a movie rental service or an online education portal and so on. In this paper, I will focus on matrix factorization algorithms as applied to recommender systems and discuss the singular value decomposition, gradient descent-based matrix factorization and parallelizing matrix factorization for large scale applications.</i>
 
-<b>Shalin Shah</b>
+<br><b>Shalin Shah</b>
 
 <a href="https://doi.org/10.5281/zenodo.3344938"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3344938.svg" alt="DOI"></a>
 
