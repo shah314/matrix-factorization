@@ -6,7 +6,6 @@
 
 <a href="https://doi.org/10.5281/zenodo.3344938"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3344938.svg" alt="DOI"></a>
 
-<br><br>
 <b><a href="https://github.com/shah314/matrix-factorization/raw/master/matrix-factorization-recommender-systems.pdf">Introduction to Matrix Factorization for Recommender Systems (PDF)</a></b>
 <br>
 (This tutorial was part of my course notes for a matrix analysis course at JHU)
